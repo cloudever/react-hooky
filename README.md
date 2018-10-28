@@ -63,6 +63,7 @@ npm install react-hooky
 - `useMotion`
 - `useMount`
 - `useNetwork`
+- `useObservable`
 - `useOrientation`
 - `useRaf`
 - `useSetState`

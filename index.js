@@ -34,6 +34,7 @@ export { useMediaDevices } from 'react-use';
 export { useMotion } from 'react-use';
 export { useMount } from 'react-use';
 export { useNetwork } from 'react-use';
+export { useObservable } from 'react-use';
 export { useOrientation } from 'react-use';
 export { useRaf } from 'react-use';
 export { useSetState } from 'react-use';
