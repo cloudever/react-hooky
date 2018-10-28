@@ -108,9 +108,9 @@ react-cache@^2.0.0-alpha.0:
   version "2.0.0-alpha.0"
   resolved "https://registry.yarnpkg.com/react-cache/-/react-cache-2.0.0-alpha.0.tgz#d02d16a4565fd9f12478a2a41e980ba4fcbab4d5"
 
-react-use@^1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/react-use/-/react-use-1.7.0.tgz#9aab5a7b0a951a2ba63a77c0ed431c3f205fb4b3"
+react-use@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/react-use/-/react-use-2.0.0.tgz#c57af7db125d5223f919b7847301fb5c6ac8de46"
   dependencies:
     "@types/react" "^16.4.18"
     "@types/react-dom" "^16.0.9"
@@ -178,7 +178,7 @@ stylis@3.5.0:
   version "3.5.0"
   resolved "https://registry.yarnpkg.com/stylis/-/stylis-3.5.0.tgz#016fa239663d77f868fef5b67cf201c4b7c701e1"
 
-the-platform@^0.8.0:
+the-platform@0.8.0:
   version "0.8.0"
   resolved "https://registry.yarnpkg.com/the-platform/-/the-platform-0.8.0.tgz#b933123a5d25f32461a29cfa666e47a1de808d50"
   dependencies:
