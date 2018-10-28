@@ -1,0 +1,23 @@
+{
+  "name": "react-hooky",
+  "version": "0.1.0",
+  "description": "React hooks collection all-in-one",
+  "main": "index.js",
+  "module": "index.js",
+  "dependencies": {
+    "react-use": "1.7.0",
+    "the-platform": "0.8.0"
+  },
+  "keywords": [
+    "react-hooks",
+    "react-hook",
+    "react",
+    "hooks",
+    "hook",
+    "the-platform",
+    "react-use"
+  ],
+  "repository": "http://github.com/cloudever/react-hooky",
+  "author": "@cloudever",
+  "license": "MIT"
+}
