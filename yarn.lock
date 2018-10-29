@@ -108,9 +108,9 @@ react-cache@^2.0.0-alpha.0:
   version "2.0.0-alpha.0"
   resolved "https://registry.yarnpkg.com/react-cache/-/react-cache-2.0.0-alpha.0.tgz#d02d16a4565fd9f12478a2a41e980ba4fcbab4d5"
 
-react-use@2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/react-use/-/react-use-2.1.0.tgz#4ebedaaa6eefb8e228324a35f789e20ef20f7bb8"
+react-use@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/react-use/-/react-use-2.2.0.tgz#557eafd4720c7683c3c104501e32b24bc0923713"
   dependencies:
     "@types/react" "^16.4.18"
     "@types/react-dom" "^16.0.9"
