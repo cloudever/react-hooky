@@ -1,6 +1,6 @@
 {
   "name": "react-hooky",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "React.js hooks collection all-in-one",
   "main": "index.js",
   "module": "index.js",
@@ -14,7 +14,7 @@
     "react-use": "2.2.0",
     "the-platform": "0.8.0",
     "use-onclickoutside": "0.1.0",
-    "use-substate": "^0.0.2"
+    "use-substate": "0.0.2"
   },
   "devDependencies": {
     "eslint": "^5.8.0",
