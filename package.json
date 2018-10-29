@@ -6,7 +6,8 @@
   "module": "index.js",
   "dependencies": {
     "react-use": "2.1.0",
-    "the-platform": "0.8.0"
+    "the-platform": "0.8.0",
+    "use-onclickoutside": "0.1.0"
   },
   "keywords": [
     "react-hooks",
@@ -17,7 +18,7 @@
     "the-platform",
     "react-use"
   ],
-  "repository": "http://github.com/cloudever/react-hooky",
   "author": "@cloudever",
+  "repository": "http://github.com/cloudever/react-hooky",
   "license": "MIT"
 }

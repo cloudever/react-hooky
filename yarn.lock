@@ -193,3 +193,7 @@ throttle-debounce@^2.0.1:
 ts-easing@^0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/ts-easing/-/ts-easing-0.1.1.tgz#055c68ba878ddb78d7b22ce4852557b8b8366bcd"
+
+use-onclickoutside@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/use-onclickoutside/-/use-onclickoutside-0.1.0.tgz#bc1998fe36728b22a4b9b28c95fbb468b3033e84"

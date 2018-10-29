@@ -78,9 +78,13 @@ npm install react-hooky
 - `useWindowSize` as `useWindowSize2`
 - `useMedia` as `useMedia2`
 
+### other
+
+- [`useOnClickOutside`](https://github.com/Andarist/use-onclickoutside)
+
 ## Whan does `hooky` means?
 
-The `-y` suffix in Russian is like `-s (-es)` in English and is used for plural form
+The `-y` (i) suffix in Russian is like `-s (-es)` in English and is used for plural form.
 
 ## License
 

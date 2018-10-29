@@ -49,3 +49,5 @@ export { useUnmount } from 'react-use';
 export { useWindowSize as useWindowSize2 } from 'react-use';
 export { useMedia as useMedia2 } from 'react-use';
 
+// other
+export { default as useOnClickOutside } from 'use-onclickoutside';
