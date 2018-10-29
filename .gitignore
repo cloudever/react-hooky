@@ -7,6 +7,8 @@ yarn-error.log*
 
 yarn.lock
 
+__shapshots__
+
 # Runtime data
 pids
 *.pid
