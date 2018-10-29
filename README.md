@@ -47,42 +47,43 @@ npm install react-hooky
 
 ### [react-use](https://github.com/streamich/react-use)
 
-- `useAudio`
-- `useBattery`
-- `useCounter`
-- `useCss`
-- `useFavicon`
-- `useGeolocation`
-- `useHover`
-- `useIdle`
-- `useLifecycles`
-- `useList`
-- `useLocalStorage`
-- `useLocation`
-- `useLogger`
-- `useMap`
-- `useMediaDevices`
-- `useMotion`
-- `useMount`
-- `useNetwork`
-- `useObservable`
-- `useOrientation`
-- `useRaf`
-- `useSetState`
-- `useSize`
-- `useSpeech`
-- `useSpring`
-- `useTimeout`
-- `useTitle`
-- `useToggle`
-- `useTween`
-- `useUnmount`
-- `useWindowSize` as `useWindowSize2`
-- `useMedia` as `useMedia2`
+- [`useAsync`](https://github.com/streamich/react-use/blob/master/docs/useAsync.md)
+- [`useAudio`](https://github.com/streamich/react-use/blob/master/docs/useAudio.md)
+- [`useBattery`](https://github.com/streamich/react-use/blob/master/docs/useBattery.md)
+- [`useCounter`](https://github.com/streamich/react-use/blob/master/docs/useCounter.md)
+- [`useCss`](https://github.com/streamich/react-use/blob/master/docs/useCss.md)
+- [`useFavicon`](https://github.com/streamich/react-use/blob/master/docs/useFavicon.md)
+- [`useGeolocation`](https://github.com/streamich/react-use/blob/master/docs/useGeolocation.md)
+- [`useHover`](https://github.com/streamich/react-use/blob/master/docs/useHover.md)
+- [`useIdle`](https://github.com/streamich/react-use/blob/master/docs/useIdle.md)
+- [`useLifecycles`](https://github.com/streamich/react-use/blob/master/docs/useLifecycles.md)
+- [`useList`](https://github.com/streamich/react-use/blob/master/docs/useList.md)
+- [`useLocalStorage`](https://github.com/streamich/react-use/blob/master/docs/useLocalStorage.md)
+- [`useLocation`](https://github.com/streamich/react-use/blob/master/docs/useLocation.md)
+- [`useLogger`](https://github.com/streamich/react-use/blob/master/docs/useLogger.md)
+- [`useMap`](https://github.com/streamich/react-use/blob/master/docs/useMap.md)
+- [`useMediaDevices`](https://github.com/streamich/react-use/blob/master/docs/useMediaDevices.md)
+- [`useMotion`](https://github.com/streamich/react-use/blob/master/docs/useMotion.md)
+- [`useMount`](https://github.com/streamich/react-use/blob/master/docs/useMount.md)
+- [`useNetwork`](https://github.com/streamich/react-use/blob/master/docs/useNetwork.md)
+- [`useObservable`](https://github.com/streamich/react-use/blob/master/docs/useObservable.md)
+- [`useOrientation`](https://github.com/streamich/react-use/blob/master/docs/useOrientation.md)
+- [`useRaf`](https://github.com/streamich/react-use/blob/master/docs/useRaf.md)
+- [`useSetState`](https://github.com/streamich/react-use/blob/master/docs/useSetState.md)
+- [`useSize`](https://github.com/streamich/react-use/blob/master/docs/useSize.md)
+- [`useSpeech`](https://github.com/streamich/react-use/blob/master/docs/useSpeech.md)
+- [`useSpring`](https://github.com/streamich/react-use/blob/master/docs/useSpring.md)
+- [`useTimeout`](https://github.com/streamich/react-use/blob/master/docs/useTimeout.md)
+- [`useTitle`](https://github.com/streamich/react-use/blob/master/docs/useTitle.md)
+- [`useToggle`](https://github.com/streamich/react-use/blob/master/docs/useToggle.md)
+- [`useTween`](https://github.com/streamich/react-use/blob/master/docs/useTween.md)
+- [`useUnmount`](https://github.com/streamich/react-use/blob/master/docs/useUnmount.md)
+- [`useWindowSize`](https://github.com/streamich/react-use/blob/master/docs/useWindowSize.md) as `useWindowSize2`
+- [`useMedia`](https://github.com/streamich/react-use/blob/master/docs/useMedia.md) as `useMedia2`
 
 ### other
 
-- [`useOnClickOutside`](https://github.com/Andarist/use-onclickoutside)
+- [`useOnClickOutside`](https://github.com/streamich/react-use/blob/master/docs/useOnClickOutside.md)(https://github.com/Andarist/use-onclickoutside)
 
 ## Contribution
 
