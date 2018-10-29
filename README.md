@@ -1,17 +1,17 @@
 
-# React-hooky
+# react-hooky
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/cloudever/react-hooky.svg)](https://greenkeeper.io/)
 
 [![NPM](https://nodei.co/npm/react-hooky.png?compact=true)](https://nodei.co/npm/react-hooky/)
 
-## Why
+## Why?
 
-Since the presentation of hooks in React, many packages have been published for various purposes, and in order not to pull many new dependencies, most of them are combined in this package through re-export
+Since the appearance of hooks in React, many packages have been published for various purposes, and in a reason to not pull many new small dependencies, most of them are combined in this package through re-export.
 
-Package just proxy dependencies and does need to be compiled, it supports ESM for `webpack` and `rollup`.
+This package proxies dependencies and does not need to be compiled. It build upon ES Modules for `webpack` and `rollup` support and tree-shaking.
 
-## Installation
+## Install
 
 Using Yarn
 
@@ -25,7 +25,7 @@ or NPM
 npm install react-hooky
 ```
 
-## What's included
+## Exports
 
 ### [the-platform](https://github.com/palmerhq/the-platform)
 
@@ -80,7 +80,7 @@ npm install react-hooky
 
 ## Whan does `hooky` means?
 
-Just `-y` suffix is in Russian like `-s (-es)` is in English and is used for plural form
+The `-y` suffix in Russian is like `-s (-es)` in English and is used for plural form
 
 ## License
 

@@ -1,7 +1,7 @@
 {
   "name": "react-hooky",
   "version": "0.2.0",
-  "description": "React hooks collection all-in-one",
+  "description": "React.js hooks collection all-in-one",
   "main": "index.js",
   "module": "index.js",
   "dependencies": {
