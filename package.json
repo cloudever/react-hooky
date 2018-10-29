@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "react-use": "2.1.0",
+    "react-use": "2.2.0",
     "the-platform": "0.8.0",
     "use-onclickoutside": "0.1.0"
   },
