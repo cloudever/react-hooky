@@ -51,13 +51,17 @@ npm install react-hooky
 
 ### [react-use](https://github.com/streamich/react-use)
 
+- [`createMemo`](https://github.com/streamich/react-use/blob/master/docs/createMemo.md)
 - [`useAsync`](https://github.com/streamich/react-use/blob/master/docs/useAsync.md)
 - [`useAudio`](https://github.com/streamich/react-use/blob/master/docs/useAudio.md)
 - [`useBattery`](https://github.com/streamich/react-use/blob/master/docs/useBattery.md)
+- [`useBoolean`](https://github.com/streamich/react-use/blob/master/docs/useBoolean.md)
 - [`useCounter`](https://github.com/streamich/react-use/blob/master/docs/useCounter.md)
 - [`useCss`](https://github.com/streamich/react-use/blob/master/docs/useCss.md)
 - [`useFavicon`](https://github.com/streamich/react-use/blob/master/docs/useFavicon.md)
 - [`useGeolocation`](https://github.com/streamich/react-use/blob/master/docs/useGeolocation.md)
+- [`useGetSet`](https://github.com/streamich/react-use/blob/master/docs/useGetSet.md)
+- [`useGetSetState`](https://github.com/streamich/react-use/blob/master/docs/useGetSetState.md)
 - [`useHover`](https://github.com/streamich/react-use/blob/master/docs/useHover.md)
 - [`useIdle`](https://github.com/streamich/react-use/blob/master/docs/useIdle.md)
 - [`useLifecycles`](https://github.com/streamich/react-use/blob/master/docs/useLifecycles.md)
@@ -70,6 +74,7 @@ npm install react-hooky
 - [`useMotion`](https://github.com/streamich/react-use/blob/master/docs/useMotion.md)
 - [`useMount`](https://github.com/streamich/react-use/blob/master/docs/useMount.md)
 - [`useNetwork`](https://github.com/streamich/react-use/blob/master/docs/useNetwork.md)
+- [`useNumber`](https://github.com/streamich/react-use/blob/master/docs/useNumber.md)
 - [`useObservable`](https://github.com/streamich/react-use/blob/master/docs/useObservable.md)
 - [`useOrientation`](https://github.com/streamich/react-use/blob/master/docs/useOrientation.md)
 - [`useRaf`](https://github.com/streamich/react-use/blob/master/docs/useRaf.md)
@@ -82,8 +87,8 @@ npm install react-hooky
 - [`useToggle`](https://github.com/streamich/react-use/blob/master/docs/useToggle.md)
 - [`useTween`](https://github.com/streamich/react-use/blob/master/docs/useTween.md)
 - [`useUnmount`](https://github.com/streamich/react-use/blob/master/docs/useUnmount.md)
-- [`useWindowSize`](https://github.com/streamich/react-use/blob/master/docs/useWindowSize.md) as `useWindowSize2`
-- [`useMedia`](https://github.com/streamich/react-use/blob/master/docs/useMedia.md) as `useMedia2`
+- [`useWindowSize`](https://github.com/streamich/react-use/blob/master/docs/useWindowSize.md) as `useWindowSizeU`
+- [`useMedia`](https://github.com/streamich/react-use/blob/master/docs/useMedia.md) as `useMediaU`
 
 ### other
 
