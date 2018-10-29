@@ -31,19 +31,19 @@ npm install react-hooky
 
 ### [the-platform](https://github.com/palmerhq/the-platform)
 
- - `<Audio /> `
- - `<Preload /> `
- - `<Script /> `
- - `<Stylesheet /> `
- - `<Video /> `
- - `useDeviceMotion`
- - `useDeviceOrientation`
- - `useGeoPosition`
- - `useIntersectionObserver`
- - `useMedia`
- - `useNetworkStatus`
- - `useWindowScrollPosition`
- - `useWindowSize`
+ - [`<Audio /> `](https://github.com/palmerhq/the-platform#Audio )
+ - [`<Preload /> `](https://github.com/palmerhq/the-platform#Preload )
+ - [`<Script /> `](https://github.com/palmerhq/the-platform#Script )
+ - [`<Stylesheet /> `](https://github.com/palmerhq/the-platform#Stylesheet )
+ - [`<Video /> `](https://github.com/palmerhq/the-platform#Video )
+ - [`useDeviceMotion`](https://github.com/palmerhq/the-platform#useDeviceMotion)
+ - [`useDeviceOrientation`](https://github.com/palmerhq/the-platform#useDeviceOrientation)
+ - [`useGeoPosition`](https://github.com/palmerhq/the-platform#useGeoPosition)
+ - [`useIntersectionObserver`](https://github.com/palmerhq/the-platform#useIntersectionObserver)
+ - [`useMedia`](https://github.com/palmerhq/the-platform#useMedia)
+ - [`useNetworkStatus`](https://github.com/palmerhq/the-platform#useNetworkStatus)
+ - [`useWindowScrollPosition`](https://github.com/palmerhq/the-platform#useWindowScrollPosition)
+ - [`useWindowSize`](https://github.com/palmerhq/the-platform#useWindowSize)
 
 ### [react-use](https://github.com/streamich/react-use)
 
