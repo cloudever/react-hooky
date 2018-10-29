@@ -83,7 +83,7 @@ npm install react-hooky
 
 ### other
 
-- [`useOnClickOutside`](https://github.com/streamich/react-use/blob/master/docs/useOnClickOutside.md)(https://github.com/Andarist/use-onclickoutside)
+- [`useOnClickOutside`](https://github.com/streamich/react-use/blob/master/docs/useOnClickOutside.md)
 
 ## Contribution
 
