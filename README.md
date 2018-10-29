@@ -3,6 +3,8 @@
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/cloudever/react-hooky.svg)](https://greenkeeper.io/)
 ![David](https://img.shields.io/david/cloudever/react-hooky.svg)
+![npm](https://img.shields.io/npm/dt/react-hooky.svg)
+
 
 
 [![NPM](https://nodei.co/npm/react-hooky.png?compact=true)](https://nodei.co/npm/react-hooky/)
