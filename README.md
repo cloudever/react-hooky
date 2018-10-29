@@ -84,7 +84,7 @@ npm install react-hooky
 
 ## Whan does `hooky` means?
 
-The `-y` (i) suffix in Russian is like `-s (-es)` in English and is used for plural form.
+The `-y` (i) suffix in Russian is just like `-s (-es)` in English and usable for plural form of a word.
 
 ## License
 

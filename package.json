@@ -4,10 +4,27 @@
   "description": "React.js hooks collection all-in-one",
   "main": "index.js",
   "module": "index.js",
+  "scripts": {
+    "lint": "eslint --fix index.js",
+    "pretest": "npm run lint",
+    "test": "jest"
+  },
   "dependencies": {
     "react-use": "2.1.0",
     "the-platform": "0.8.0",
     "use-onclickoutside": "0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "jest": "^23.6.0",
+    "mocha": "^5.2.0",
+    "rollup": "^0.66.6"
+  },
+  "peerDependencies": {
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0"
   },
   "keywords": [
     "react-hooks",
