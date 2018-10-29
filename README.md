@@ -2,6 +2,7 @@
 # react-hooky
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/cloudever/react-hooky.svg)](https://greenkeeper.io/)
+![Depfu](https://img.shields.io/depfu/cloudever/react-hooky.svg)
 
 [![NPM](https://nodei.co/npm/react-hooky.png?compact=true)](https://nodei.co/npm/react-hooky/)
 
