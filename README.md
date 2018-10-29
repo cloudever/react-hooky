@@ -11,6 +11,8 @@ Since the appearance of hooks in React, many packages have been published for va
 
 This package proxies dependencies and does not need to be compiled. It build upon ES Modules for `webpack` and `rollup` support and tree-shaking.
 
+A bundle size is optimized by bundler when used with ESM modules, so keep calm and feel free to use the package.
+
 ## Install
 
 Using Yarn
@@ -81,6 +83,10 @@ npm install react-hooky
 ### other
 
 - [`useOnClickOutside`](https://github.com/Andarist/use-onclickoutside)
+
+## Contribution
+
+Feel free to pull your request of hooks and keep agreement of conventional commits.
 
 ## Whan does `hooky` means?
 
