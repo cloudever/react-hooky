@@ -9,7 +9,7 @@
 
 Since the appearance of hooks in React, many packages have been published for various purposes, and in a reason to not pull many new small dependencies, most of them are combined in this package through re-export.
 
-This package proxies dependencies and does not need to be compiled. It build upon ES Modules for `webpack` and `rollup` support and tree-shaking.
+This package proxies dependencies and does not need to be compiled. It't built upon ES Modules for `webpack` and `rollup` support and tree-shaking.
 
 A bundle size is optimized by bundler when used with ESM modules, so keep calm and feel free to use the package.
 
