@@ -86,6 +86,7 @@ npm install react-hooky
 ### other
 
 - [`useOnClickOutside`](https://github.com/streamich/react-use/blob/master/docs/useOnClickOutside.md)
+- [`useSubstate`](https://github.com/philipp-spiess/use-substate) and `SubstateProvider`
 
 ## Contribution
 

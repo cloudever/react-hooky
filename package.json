@@ -1,6 +1,6 @@
 {
   "name": "react-hooky",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "description": "React.js hooks collection all-in-one",
   "main": "index.js",
   "module": "index.js",
@@ -13,7 +13,8 @@
   "dependencies": {
     "react-use": "2.2.0",
     "the-platform": "0.8.0",
-    "use-onclickoutside": "0.1.0"
+    "use-onclickoutside": "0.1.0",
+    "use-substate": "^0.0.2"
   },
   "devDependencies": {
     "eslint": "^5.8.0",
@@ -30,7 +31,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "yarn test"
+      "pre-commit": "yarn test"
     }
   },
   "keywords": [
