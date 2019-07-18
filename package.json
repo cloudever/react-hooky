@@ -22,7 +22,7 @@
     "eslint-plugin-import": "^2.14.0",
     "husky": "^1.1.2",
     "jest": "^23.6.0",
-    "mocha": "^5.2.0",
+    "mocha": "^6.2.0",
     "rollup": "^0.66.6"
   },
   "peerDependencies": {
