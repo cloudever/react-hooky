@@ -11,7 +11,7 @@
     "prepublish": "yarn test"
   },
   "dependencies": {
-    "react-use": "4.1.0",
+    "react-use": "11.2.0",
     "the-platform": "0.8.0",
     "use-onclickoutside": "0.1.0",
     "use-substate": "0.0.2"
